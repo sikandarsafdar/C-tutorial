@@ -27,7 +27,7 @@ int main()
     switch (age)
     {
     case 18:
-        cout << "You are 18" << endl;
+        cout << "You are 45" << endl;
         break;
     case 22:
         cout << "You are 22" << endl;
