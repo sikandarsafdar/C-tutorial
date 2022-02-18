@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    // cout<<"This is tutorial 9";
+    cout << "This is tutorial 9";
     int age;
     cout << "Tell me your age" << endl;
     cin >> age;
