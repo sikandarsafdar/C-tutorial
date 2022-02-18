@@ -14,7 +14,6 @@ b = temp;             // 4   5  4
 int main (){
     int a=4 ,b=5;
     //cout <<"The sum of 4 and 5 is"<<sum(a,b);
-    cout<<"The value of a is"<<a<<"and the value of b is"<<
-    swap(a, b); 
+    cout<<"The value of a is"<<a<<"and the value of b is"<<swap(a, b)<<endl; 
      return 0; 
 }

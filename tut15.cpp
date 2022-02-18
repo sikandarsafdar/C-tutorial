@@ -11,7 +11,7 @@ void g(); //--> Acceptable
 int main()
 {
     int num1, num2;
-    cout << "Enter the first number" << endl;
+    cout << "Enter the first numbers" << endl;
     cin >> num1;
     cout << "Enter the second number" << endl;
     cin >> num2;
