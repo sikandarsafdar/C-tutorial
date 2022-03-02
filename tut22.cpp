@@ -87,5 +87,5 @@ int main()
     b.ones_compliment();
     b.display();
     return 0;
-    system("pause");
+   
 }
