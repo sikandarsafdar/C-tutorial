@@ -37,6 +37,6 @@ int main()
     dukaan.setPrice();
     dukaan.setPrice();
     dukaan.displayPrice();
-    system("pause");
+    
     return 0;
 }
