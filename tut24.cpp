@@ -43,6 +43,6 @@ int main()
      zubair.setData();
      zubair.getData();
      Employee::getCount();
-     system("pause");
+     
      return 0;
 }
