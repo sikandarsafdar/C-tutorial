@@ -22,7 +22,7 @@ BankDeposit ::BankDeposit(int p,int y,float r)
     returnValue = principal;
     for (int i = 0; i <y; i++)
     {
- returnValue = returnValue * (1+r);
+ returnValue = returnValue * (1+interestRate);
     }
     
 }
@@ -36,15 +36,15 @@ BankDeposit ::BankDeposit(int p,int y,int r)
     returnValue = principal;
     for (int i = 0; i <y; i++)
     {
- returnValue = returnValue * (1+r);
+ returnValue = returnValue * (1+interestRate);
     }
     
 }
 
 void BankDeposit :: show(){
-    cout<<endl<<"Principal amount was"<<principal<<endl
+    cout<<endl<<"Principal amount was"<<principal
     <<"Return value after "<<years 
-    <<"is"<<returnValue<<endl;
+    <<"years is"<<returnValue<<endl;
 
 }
 int main () {
@@ -53,10 +53,20 @@ int p ,y;
 float r;
 int R;
 
+bd3.show();
 cout<<"Enter the value of p y and r"<<endl;
 cin>>p>>y>>r;
-
 bd1 = BankDeposit(p , y ,r);
 bd1.show();
+
+
+cout<<"Enter the value of p y and R"<<endl;
+cin>>p>>y>>R;
+bd2 = BankDeposit(p , y ,R);
+bd2.show();
+
+
+ system("pause"); 
      return 0 ;
+    
 }
