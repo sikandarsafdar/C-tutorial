@@ -41,3 +41,11 @@ List of completed work
 - Multiple inheritance deep dive
 - Exercise on C++ inheritance
 - Ambiguity resolution in C++
+
+# C++ Exercises
+
+- Addition in C++
+- Division in C++
+- Celsius to farhenheit in C++
+- Farhenheit to celsius in C++
+- Check grading in C++
