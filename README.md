@@ -49,3 +49,7 @@ List of completed work
 - Celsius to farhenheit in C++
 - Farhenheit to celsius in C++
 - Check grading in C++
+- Find odd number in C++
+- Find even number in C++
+- Check even & odd numbers in C++
+- Check even & odd from user desire input
