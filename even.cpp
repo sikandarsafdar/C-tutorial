@@ -2,14 +2,7 @@
 using namespace std; 
 
 int main () {
-int a; 
-    for( a = 1;a<=100;a++){
-
-   if(a%2==0){
-       cout<<a<<endl;
-   }
-   
-}  
+ 5!= 5*4*3*2*1;
 
     system("pause");
      return 0;
