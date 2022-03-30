@@ -53,3 +53,7 @@ List of completed work
 - Find even number in C++
 - Check even & odd numbers in C++
 - Check even & odd from user desire input
+- Finding mean in C++
+- Multiplication in C++
+- Finding mean from user desire input
+ 
