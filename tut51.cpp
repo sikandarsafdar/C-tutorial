@@ -28,6 +28,7 @@ int main()
     ptr->setData(1, 54);
     //(*ptr).getData(); is as good as
     ptr->getData();
+    
 
 
     // Array of objects

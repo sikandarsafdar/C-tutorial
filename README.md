@@ -41,7 +41,24 @@ List of completed work
 - Multiple inheritance deep dive
 - Exercise on C++ inheritance
 - Ambiguity resolution in C++
-
+- Lecture
+- 
+- Lecture
+- Solution to exercise on C++ inheritence
+- Code example:Constructors in derived class in C++
+- Initialization list in constructors in C++
+- Revisiting pointers:new and delete keywords in C++
+- Pointers to objects and arrow operators in C++
+- Array of objects using pointers in C++
+- This pointer in C++
+- Polymorphism in C++
+- Pointers to derived classes in C++
+- Virtual function in C++
+- Virtual function example+Creation rules in C++
+- Abstract base class & pure virtual function in C++
+- Lecture
+- File I/O in C++: Reading and writing files
+  
 # C++ Exercises
 
 - Addition in C++
